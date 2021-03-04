@@ -23,7 +23,6 @@ public class Main {
 				redes.ping(so[0]);
 				break;
 			case 0:
-				//
 				System.out.println("Programa encerrado!");
 				break;
 			default:
